@@ -1,2 +1,2 @@
 ### How's it going 👋
-An engineering student 🖥️🖥, enjoys game dev 🕹️
+I'm an engineering student 🖥️🖥, I enjoys game dev 🕹️
