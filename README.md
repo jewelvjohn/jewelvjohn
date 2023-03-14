@@ -6,7 +6,7 @@
 - 👨‍🔧 Pursuing engineering course
 - 🚀 Blender, 🎮 Unity3d
 - 💻 Java, C/C++, C#, HTML, CSS, Python, MySQL
-- 
+
 - 🔭 I’m currently working on an indie game. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelvjohn&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
