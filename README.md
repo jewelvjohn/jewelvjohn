@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jewel John
 ### Programming & GameDev
-![Programming & GameDev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Programming & GameDev](https://github.com/jewelvjohn/jewelvjohn/blob/main/Jetpack.jpg)
 
 ### I'm what I do. If you don't know me 
 - 👨‍🔧 Pursuing engineering course
