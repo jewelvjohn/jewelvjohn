@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an indie game. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelvjohn&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-phi-nine-43.vercel.app/api?username=jewelvjohn&show_icons=true&theme=gotham)](https://github.com/jewelvjohn/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jewelvjohn&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelvjohn&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
