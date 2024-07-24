@@ -2,12 +2,11 @@
 ### Programming & GameDev
 ![Programming & GameDev](https://github.com/jewelvjohn/jewelvjohn/blob/main/Jetpack.jpg)
 
-### I'm what I do. If you don't know me 
-- 👨‍🔧 Pursuing engineering course
-- 🚀 Blender, 🎮 Unity3d
-- 💻 Java, C/C++, C#, HTML, CSS, Python, MySQL
-
-- 🔭 I’m currently working on an indie game. 
+### what I do -> 
+- 👨‍🔧 comp sci.
+- 🚀 blender & unity
+- 💻 traditional C/C++, C#, JavaScript, CSS & Python.
+- 🔭 currently working on an indie game. 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
