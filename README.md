@@ -7,9 +7,12 @@
 - 💻 C# (Mono), Javascript (Three.js, Node.js, Vite), GLSL (WebGL), Python (Qt framework), Version Control (Git), HTML, CSS etc.
 - 🚀 Unity, Blender, Visual Studio, Photoshop, Inkscape, Krita etc.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelvjohn&label=Profile%20views&color=0e75b6&style=flat" alt="jewelvjohn" /> </p>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jewelvjohn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jewelvjohn&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelvjohn&layout=compact&bg_color=90,564256,7e7a85&text_color=E8E8E8&title_color=E8E8E8&icon_color=FC814A&hide_border=true&border_radius=16)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=jewelvjohn&show_icons=true&hide=contribs&include_all_commits=true&text_bold=false&ring_color=70C1B3&rank_icon=github&bg_color=90,564256,7e7a85&text_color=E8E8E8&title_color=E8E8E8&icon_color=FC814A&hide_border=true&border_radius=16)
 
 </details>
