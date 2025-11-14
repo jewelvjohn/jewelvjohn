@@ -4,7 +4,7 @@
 
 ### What I do -> 
 - 👨‍🔧 I build high quality gameplay systems that are reusable.
-- 💻 C# (Mono), Javascript (Three.js, Node.js, Vite), GLSL (WebGL), Python (Qt framework), HTML, CSS etc.
+- 💻 C# (Mono), Javascript (Three.js, Node.js, Vite), GLSL (WebGL), Python (Qt framework), Version Control (Git), HTML, CSS etc.
 - 🚀 Unity, Blender, Visual Studio, Photoshop, Inkscape, Krita etc.
 
 <details>
