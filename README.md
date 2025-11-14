@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Jewel John
-### Programming & GameDev
-![Programming & GameDev](https://github.com/jewelvjohn/jewelvjohn/blob/main/Jetpack.jpg)
+### Gameplay Systems Engineer / Unity Generalist
+![Gameplay Systems Engineer / Unity Generalist](https://github.com/jewelvjohn/jewelvjohn/blob/main/Jetpack.jpg)
 
 ### What I do -> 
-- 👨‍🔧 Comp Sci.
-- 🚀 Blender, Unity, & Three.js
-- 💻 Traditional C/C++, C#, JavaScript, CSS & Python.
-- 🔭 Currently working on an indie game. 
+- 👨‍🔧 I build high quality gameplay systems that are reusable.
+- 💻 C# (Mono), Javascript (Three.js, Node.js, Vite), GLSL (WebGL), Python (Qt framework), HTML, CSS etc.
+- 🚀 Unity, Blender, Visual Studio, Photoshop, Inkscape, Krita etc.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
